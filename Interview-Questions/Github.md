@@ -210,3 +210,11 @@ git push
 Upload to GitHub.
 
 This is the most common Git workflow used by developers.
+
+---
+
+```bash
+git push -u origin main
+```
+
+The -u flag stands for "set upstream." This links your current local branch to the main branch on GitHub.
